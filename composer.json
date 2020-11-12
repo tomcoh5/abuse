@@ -41,7 +41,7 @@
 		"wpb/string-blade-compiler": "3.0.*",
 		"php-mime-mail-parser/php-mime-mail-parser": "2.1.4",
 		"webpatser/laravel-uuid": "1.*",
-		"Chumper/Zipper": "0.6.x",
+		"chumper/zipper": "0.6.x",
 		"barryvdh/laravel-ide-helper": "^2.0",
 		"ddeboer/data-import": "^0.18.0",
 		"yajra/laravel-datatables-oracle": "~5.0",
